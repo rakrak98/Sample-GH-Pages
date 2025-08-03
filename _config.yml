@@ -3,7 +3,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A simple Jekyll site for demonstrating GitHub Pages deployment.
 baseurl: "/Sample-GH-Pages" # the subpath of your site, e.g. /blog
-url: "https://rakrak98.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.rakibandramisa.info" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
